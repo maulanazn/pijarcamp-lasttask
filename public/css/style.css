@@ -1,0 +1,16 @@
+* {
+    background-color: #FFF0F0;
+}
+
+#title {
+    color: black;
+}
+
+#produk-semua::before {
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    color: #00001A;
+}
